@@ -1,0 +1,1 @@
+class { 'ruby-rack-app': }
